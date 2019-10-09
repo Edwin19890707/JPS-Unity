@@ -26,3 +26,6 @@ sysinfo.txt
 
 # Dod Files that I'm using to document my bullshit
 ~*.doc
+
+Logs/* 
+ProjectSettings/*
